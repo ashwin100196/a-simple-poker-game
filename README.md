@@ -144,4 +144,4 @@ With the help of the Card and Hand classes, the get_winning_hand function has be
 |21|test_get_winning_hand_invalid_number_of_hands|Must raise ValueError exception when get_winning_hand method is called with hands <= 1|
 
 The test cases have all passed as shown below.
-![TestCases](/test_cases_results.png)
+![TestCases](/test_case_results.png)
